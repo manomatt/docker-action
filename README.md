@@ -16,6 +16,8 @@ The time we greeted you.
 
 ## Example usage
 
+```python
 uses: manomatt/docker-action@v1
 with:
   who-to-greet: 'Mona the Octocat'
+```
